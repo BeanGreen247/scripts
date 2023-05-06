@@ -24,15 +24,15 @@ echo $pass | sudo -S systemctl --signal=TERM libvirtd-admin.socket
 echo $pass | sudo -S systemctl --signal=TERM libvirtd.socket
 echo $pass | sudo -S systemctl restart libvirtd
 echo $pass | sudo -S virsh list --all
-if [ "$1" == "win11-no-gpu" ]; then
+if [ "$2" == "win11-no-gpu" ]; then
     echo $pass | sudo -S virsh shutdown win11-no-gpu
     echo "Waiting 120s before VM shuts down"
     sleep 120
-elif [ "$1" == "win11" ]; then
+elif [ "$2" == "win11" ]; then
     echo $pass | sudo -S virsh shutdown win11
     echo "Waiting 120s before VM shuts down"
     sleep 120
-elif [ "$1" == "ubuntu22.04" ]; then
+elif [ "$2" == "ubuntu22.04" ]; then
     echo $pass | sudo -S virsh shutdown ubuntu22.04
     echo "Waiting 120s before VM shuts down"
     sleep 120
