@@ -1,7 +1,7 @@
 # scripts
 the scripts folder containing all my scripts
 
-a list expaining what each script is for
+a list explaining what each script is for
 * [cleanMem.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/cleanMem.sh) - executes freeMem.sh as root
 * [cleanPackageCache.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/cleanPackageCache.sh) - cleans cached packages on Arch Linux system for both pacman and yay
 * [comparemusicfoldersondevices.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/comparemusicfoldersondevices.sh) - compares content between Home Music Folder and Phone Music Folder
