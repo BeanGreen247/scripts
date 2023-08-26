@@ -20,7 +20,6 @@ a list explaining what each script is for
 * [sshUWUserver.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/sshUWUserver.sh) - ssh into my server, yes it is named like that on purpose
 * [unassign-cpu.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/unassign-cpu.sh) - keeps only selected cpu cores/threads to make them usable inside the linux system so that the rest can be used inside VMs
 * [execute_as_root.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/execute_as_root.sh) - execute scripts listed using root
-overclock.sh
 * [overclock.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/overclock.sh) - mentioned here [Linux_NVIDIA_GPU_Overclocking_Guide](https://github.com/BeanGreen247/Linux_NVIDIA_GPU_Overclocking_Guide)
 * [standby_hdd.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/standby_hdd.sh) - puts hdd or hdds into standby upons startup
 ---
