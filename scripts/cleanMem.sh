@@ -1,3 +1,3 @@
 #!/bin/bash
-pass=$(zenity --password --title="Enter root Password")
+pass="not_gonna_dox_myself"
 echo $pass | sudo -S bash /home/beangreen247/scripts/freeMem.sh
