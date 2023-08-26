@@ -23,6 +23,5 @@ a list explaining what each script is for
 overclock.sh
 * [overclock.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/overclock.sh) - mentioned here [Linux_NVIDIA_GPU_Overclocking_Guide](https://github.com/BeanGreen247/Linux_NVIDIA_GPU_Overclocking_Guide)
 * [standby_hdd.sh](https://github.com/BeanGreen247/scripts/blob/main/scripts/standby_hdd.sh) - puts hdd or hdds into standby upons startup
-* 
 ---
 BeanGreen247, 2023
